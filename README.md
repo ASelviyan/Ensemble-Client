@@ -4,7 +4,7 @@
 [Link](https://62d72ddfb37fce2eea6ee563--ensemble-closet.netlify.app/)
 
 
-[Server Repo](https://github.com/ASelviyan/Ensemble-Client)
+[Server Repo](https://github.com/ASelviyan/Ensemble-Server)
 
 ### Developed by:
 
